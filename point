@@ -33,7 +33,7 @@ select opt in "${options[@]}"
 do
 case $opt in
 
-"Install Node")
+"Install node")
 echo "============================================================"
 echo "Your Node Name:"
 echo "============================================================"
