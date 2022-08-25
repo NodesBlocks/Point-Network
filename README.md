@@ -1,5 +1,3 @@
-https://i.imgur.com/phMmE2i.png
-
 # Point Installation Guide
 
 ## Minimum Hardware Requirements
