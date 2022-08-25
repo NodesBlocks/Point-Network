@@ -1,3 +1,5 @@
+![Point Network](https://i.imgur.com/vmGE1rj.png)
+
 # Point Installation Guide
 
 ## Minimum Hardware Requirements
