@@ -32,14 +32,12 @@ To get the current wallet list
 ```bash
 evmosd keys list
 ```
-## Edit validator
-
-Before creating a validator please make sure you have at least 1 ISLM (1 ISLM equals 1000000 apoint) and your node is in sync.
-
 To check your wallet balance
 ```bash
 evmosd query bank balances $POINT_WALLET
 ```
+## Edit validator
+
 If you can't see your balance in your wallet, chances are your node is still syncing. Please wait for the sync to finish and then continue
 
 Edit a Validator:
